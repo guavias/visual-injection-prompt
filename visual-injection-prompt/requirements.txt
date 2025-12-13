@@ -1,0 +1,4 @@
+openai
+scikit-learn
+joblib
+python-dotenv
